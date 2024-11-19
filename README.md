@@ -1,14 +1,17 @@
-## Hi there 👋
+# Bienvenidos a mi pagina de información personal
+# Welcome to this personal info page
 
-**smarcam1102/smarcam1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Position and contact
 
-Here are some ideas to get you started:
+- Alumno de computación y robótica en Baza
+- Secondary School student in Baza (Granada), Spain
+- smrtnezcampoy@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Personal interests
+- I love to draw
+- Listen to music, rock, metal, clasic, I like Eminem
+- Watch series or movies
+
+## Github team:
+ 
+ 
