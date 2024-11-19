@@ -1,6 +1,6 @@
 # Bienvenidos a mi pagina de información personal
 # Welcome to this personal info page
-
+![imagen](Eminem.jpeg)
 ## Position and contact
 
 - Alumno de computación y robótica en Baza
@@ -14,4 +14,4 @@
 
 ## Github team:
  
- 
+ https://github.com/smarcam1102
