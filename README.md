@@ -13,5 +13,7 @@
 - Watch series or movies
 
 ## Github team:
+
+Esto de aquí no es tu equipo, sino tu perfil. tienes que quitar este apartado.
  
  https://github.com/smarcam1102
