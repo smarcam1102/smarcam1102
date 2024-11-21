@@ -1,6 +1,6 @@
 # Bienvenidos a mi pagina de información personal
 # Welcome to this personal info page
-![imagen](Sarah.jpeg)
+![imagen](Eminem.jpeg)
 ## Position and contact
 
 - Alumno de computación y robótica en Baza
