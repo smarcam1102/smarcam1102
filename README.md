@@ -11,9 +11,5 @@
 - I love to draw
 - Listen to music, rock, metal, clasic, I like Eminem
 - Watch series or movies
-
-## Github team:
-
-Esto de aquí no es tu equipo, sino tu perfil. tienes que quitar este apartado.
- 
- https://github.com/smarcam1102
+- 
+I don't have nothing more to say, bye!
