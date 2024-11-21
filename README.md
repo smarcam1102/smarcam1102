@@ -12,6 +12,4 @@
 - Listen to music, rock, metal, clasic, I like Eminem
 - Watch series or movies
 
-## Github team:
- 
- https://github.com/smarcam1102
+Nothing more to say! bye!!
