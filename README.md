@@ -5,7 +5,7 @@
 
 - Alumno de computación y robótica en Baza
 - Secondary School student in Baza (Granada), Spain
-- smrtnezcampoy@gmail.com
+- smrtnezcampoy@gmail.com 
 
 ## Personal interests
 - I love to draw
