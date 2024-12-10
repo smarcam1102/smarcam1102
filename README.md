@@ -1,6 +1,6 @@
 # Bienvenidos a mi pagina de información personal
 # Welcome to this personal info page
-![imagen](Eminem.jpeg)
+![imagen](Mi_icon.jpg)
 ## Position and contact
 
 - Alumno de computación y robótica en Baza
@@ -12,4 +12,4 @@
 - Listen to music, rock, metal, clasic, I like Eminem
 - Watch series or movies
 
-Nothing more to say! bye!!
+Nothing more to say, bye
